@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **LLMs in NLP and CV**
 
-- 🌱 I’m currently studying **B.Tech. at IIT Indore**
+- 🌱 I’m currently studying **Mechanical Engineering at IIT Indore**
 
 - 👯 I’m looking to collaborate on **ML and Data Science Projects**
 
