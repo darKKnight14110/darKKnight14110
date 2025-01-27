@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/></p> 
 
-Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a deep passion for Machine Learning and Data Science. I have worked on various projects from multiple domains of machine learning like LLMs, NLP, CV and even generative AI.
+Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a deep passion for Machine Learning. I have worked on various projects from multiple domains of machine learning like LLMs, NLP, CV and even generative AI.
 
 ---
 
