@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a dee
 – Built an AI-driven system for custom skins generation for Clash of Clans using Stable Diffusion and ControlNets
 – Implemented finetuning on CompVis-v1-4 model on custom dataset for 200 steps for precise style adaptation
 – Integrated the finetuned sd model with lllyasviel control-v11p-inpaint for accurate prompt to image generation
-• Gesture Identification using EMG-data Jan. 2024 - Feb. 2024
+
 
 ### [Deep Learning & Signal Processing](https://github.com/darKKnight14110/EMG_data)
 – Employed the NinaPro DB5 dataset with 53 diverse gestures from MYO armbands,ensuring thorough preprocessing.
